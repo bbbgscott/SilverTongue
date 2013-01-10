@@ -1,0 +1,3 @@
+python-geoip - http://www.maxmind.com/en/python
+sqlite3
+tktreectrl - http://klappnase.bubble.org/TkinterTreectrl/
